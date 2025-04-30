@@ -16,7 +16,7 @@ const Surprise = () => {
     "Play Music",
     "Decorate",
     "Fly the Balloons",
-    "Aap logo ek pyara sa photo",
+    "Aap dono ka ek pyara sa photo",
     "I have a message for you mummy and papa"
   ];
 

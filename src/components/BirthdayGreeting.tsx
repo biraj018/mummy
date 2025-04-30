@@ -4,9 +4,9 @@ import { useNavigate } from 'react-router-dom';
 import { Heart, Sparkles } from 'lucide-react';
 
 const messages = [
-  "Hello Madam Jiiii",
-  "It's Your Special Day Yeyey!",
-  "So, i had to make something special for you cause you are special to me!",
+  "Hello Mummy and Papa",
+  "It's both of yours Special Day Yeyey!",
+  "So, i had to make something special for you cause you both are special to me!",
   "Do you wanna see what I made??"
 ];
 

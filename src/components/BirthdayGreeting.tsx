@@ -6,7 +6,7 @@ import { Heart, Sparkles } from 'lucide-react';
 const messages = [
   "Hello Mummy and Papa",
   "It's both of yours Special Day Yeyey!",
-  "So, i had to make something special for you cause you both are special to me!",
+  "So, I had to make something special because you both are special to me!",
   "Do you wanna see what I made??"
 ];
 

@@ -2,23 +2,24 @@ import React, { useState, useRef } from 'react';
 import { motion } from 'framer-motion';
 import { useNavigate } from 'react-router-dom';
 import { Music, Cake as CakeIcon } from 'lucide-react';
-import Banner from './images/banner.png';
+import Banner from './images/61ZhjDajPLS-removebg-preview.png';
 import Musicc from './musicc.mp3';
-import CatCake from './images/Green Red Floral Modern Anniversary Greeting Mobile Video.jpg'
+import CatCake from './images/WhatsApp Image 2025-04-29 at 22.42.10.jpg'
 const Surprise = () => {
   const [stage, setStage] = useState(0);
   const [isLit, setIsLit] = useState(false);
   const audioRef = useRef<HTMLAudioElement>(null);
   const navigate = useNavigate();
 
-  const buttonLabels = [
+ const buttonLabels = [
     "Lights On",
     "Play Music",
     "Decorate",
     "Fly the Balloons",
-    "Let's Cut the Cake Madam Ji",
-    "Well, I Have a Message for You Madam Ji"
+    "Aap logo ek pyara sa photo",
+    "I have a message for you mummy and papa"
   ];
+
 
   const handleClick = () => {
     if (stage === 0) {

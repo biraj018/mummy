@@ -11,16 +11,17 @@ const Message = () => {
         className="max-w-2xl bg-white/80 backdrop-blur-sm p-8 rounded-xl shadow-xl text-center"
       >
         <h1 className="text-3xl font-bold text-gray-800 mb-6">
-          Dear Madam Ji,
+          Dear Mom and Dad,
+
+Happy Anniversary! Watching the two of you over the years has shown me what true love, commitment, and partnership look like. Your bond is an inspiration—built on patience, laughter, support, and so much love. I'm endlessly grateful to have grown up in a home filled with warmth and kindness because of the love you share.
+
+Thank you for being my role models, not just as individuals, but as a couple. Here's to many more beautiful years together. You both deserve all the happiness in the world.
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
-          Even though we have met recently & i guess we know nothing about eachother but this
-          is my kindness to show you how much i value people.This is a way 
-          to show that our friendship just started and i hope we will be making some great memories together.
-          I'm starting this new year with a new friend as you and i hope our friendship will last forever.
+         
         </p>
         <p className="text-lg text-pink-600 font-semibold">
-          and on your special day, i wish you the happiest birthday
+          and on your special day, i wish you both the happiest anniversary.
         </p>
       </motion.div>
     </div>
